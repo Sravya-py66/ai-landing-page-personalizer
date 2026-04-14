@@ -1,7 +1,3 @@
-from google import genai
-
-client = genai.Client(api_key="AIzaSyDeau_H76Lu-RwEfwz4iJwoYqM7Tjr3QWs")
-
 # Agent 1: Ad Analyzer
 def analyze_ad(ad):
     ad = ad.lower()
