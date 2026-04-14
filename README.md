@@ -14,7 +14,13 @@ This project builds an AI workflow that personalizes landing pages based on ad c
 ## Demo
 [Paste your video link here]
 
+## Note
+- Landing page content is simulated from URL
+- System is designed for LLM integration (Gemini)
+- API not used due to quota limitations
+
 ## How to Run
 ```bash
 pip install streamlit
 streamlit run streamlit_app.py
+
