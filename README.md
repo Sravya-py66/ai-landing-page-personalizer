@@ -12,7 +12,7 @@ This project builds an AI workflow that personalizes landing pages based on ad c
 - Enhances existing page (not replacing)
 
 ## Demo
-[Paste your video link here]
+https://go.screenpal.com/watch/cOfonpnO6ya
 
 ## Note
 - Landing page content is simulated from URL
